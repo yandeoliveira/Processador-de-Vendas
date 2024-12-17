@@ -24,7 +24,7 @@ O **Processador de Vendas** é um aplicativo desenvolvido em Python que automati
 
 ## Instalação
 
-1. **Baixe o Executável**: Acesse a seção de [Releases](https://github.com/yandeoliveira/Processador-de-Vendas/releases) do repositório e baixe o arquivo executável mais recente.
+1. **Baixe o Executável**: Acesse a seção de [Branchs](https://github.com/yandeoliveira/Processador-de-Vendas/tree/master) do repositório e baixe o arquivo executável mais recente.
 
 2. **Executar o Aplicativo**: 
    - No Windows, clique duas vezes no arquivo `.exe` para iniciar o aplicativo.
@@ -50,3 +50,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 Para mais informações, entre em contato com [yansantos2410@gmail.com]
 Desenvolvedor: Yan de Oliveira
+
+# Informações adicionais
+
+Código fonte do aplicativo e executavel se encontram em outra branch do repositório.
