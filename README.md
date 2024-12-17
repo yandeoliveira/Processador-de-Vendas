@@ -51,6 +51,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 Para mais informações, entre em contato com [yansantos2410@gmail.com]
 Desenvolvedor: Yan de Oliveira
 
-# Informações adicionais
+## Informações adicionais
 
 Código fonte do aplicativo e executavel se encontram em outra branch do repositório.
